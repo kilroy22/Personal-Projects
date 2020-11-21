@@ -1,5 +1,5 @@
 # Personal-Projects
-Fun data analytics and ML projects that I have developed from scratch or from courses I have taken.
+Fun data analytics and ML projects that I have developed from scratch or from courses that I have taken.
 Justin Kessler - Projects Portfolio
 Index
 This repository holds all of my personal projects that I've done over the years. Currently they're binned in three different categories
